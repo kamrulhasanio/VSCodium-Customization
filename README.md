@@ -77,7 +77,7 @@ This repository contains my personalized settings for VSCodium, including a list
 
 ## 🔑 VS Code Keyboard Shortcuts 
 
-| Keyboard Shortcuts | Windows / Linux     | Mac   |
+| Keyboard Shortcuts | Linux / Windows     | Mac   |
 | :-------- | :------- | :-------------------------------- |
 |  HTML boilerplate  |  ! + TAB | ! + TAB |
 |  Open the palette to search for a file  | Ctrl + P | cmd + P |
