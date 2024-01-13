@@ -1,6 +1,6 @@
 VSCodium Customization
 
-This repository contains my personalized settings for VS Codium, including a list of extensions that enhance my development experience, and some useful keyboard shortcuts for VSCodium.
+This repository contains my personalized settings for VSCodium, including a list of extensions that enhance my development experience, and some useful keyboard shortcuts for VSCodium.
 
 ## 🛠 VS Code Settings
 ```bash
