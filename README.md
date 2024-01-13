@@ -106,4 +106,4 @@ This repository contains my personalized settings for VS Codium, including a lis
 
 ## ✒ Font Info
 - [Fira Code](https://fonts.google.com/specimen/Fira+Code)
-- [Operator Mono](https://github.com/keyding/Operator-Mono)https://github.com/keyding/Operator-Mono)
+- [Operator Mono](https://github.com/keyding/Operator-Mono)
