@@ -6,7 +6,7 @@ This repository contains my personalized settings for VSCodium, including a list
 ```bash
   {
   // Editor Settings
-  "editor.fontSize": 20,                         // Font size for the editor
+  "editor.fontSize": 18,                         // Font size for the editor
   "editor.fontFamily": "Operator Mono, Fira Code", // Font family for the editor
   "editor.fontLigatures": true,                   // Enable font ligatures
   "editor.wordWrap": "on",                       // Enable word wrapping
